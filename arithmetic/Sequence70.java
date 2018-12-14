@@ -21,18 +21,18 @@ public class Sequence70 {
         	if(N<6) {
         		A=A+D;
         		gg += A+"+"; 
-        		System.out.println(A+"의변화");
+        		
         		 S = S+A;
         		 
-        		 System.out.println(S+"의변화A");
+        		
         	continue;
         	}else {
         		A=A+D;
         		gg += A+"="; 
-        		System.out.println(A+"의변화");
+        		
         		 S = S+A;
         		 
-        		 System.out.println(S+"의변화A");
+        		 
         		break;
         	
         	}

@@ -38,7 +38,7 @@ public class Sequence119800 {
             	break;
             }
         	
-        	 System.out.println("Count is"+A+"Number is"+S+"Sum is"+N);
+        	 System.out.printf("Count is %d, Number is %d, Sum is %d\n",A,S,N);
         	 A++;
         }
         //System.out.println("S is "+ S);
